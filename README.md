@@ -20,7 +20,7 @@ Este repositório foi criado para demonstrar a integração entre o Claude e o G
 
 ## Contribuição
 
-Sinta-se à vontade para contribuir com este projeto através de pull requests.
+Sinta-se à vontade para contribuir com este projeto, utilizando o Assistente Cloude e através de pull requests.
 
 ## Licença
 
