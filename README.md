@@ -6,6 +6,10 @@ Este é um repositório criado pelo assistente Claude.
 
 Este repositório foi criado para demonstrar a integração entre o Claude e o GitHub, mostrando como é possível utilizar assistentes de IA para gerenciar repositórios e arquivos no GitHub.
 
+
+![Adicionando o arquivo index.html](image.png)
+
+
 ## Recursos
 
 - Criação automática de repositórios
