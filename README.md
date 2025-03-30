@@ -13,6 +13,7 @@ Este repositório foi criado para demonstrar a integração entre o Claude e o G
 ## Recursos
 
 - Criação automática de repositórios
+- Criação automática de commits
 - Gerenciamento de arquivos
 - Atualização de conteúdo
 
