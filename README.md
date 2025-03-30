@@ -1,6 +1,6 @@
-# Repositório de Teste - Claude
+# Repositório Teste - Claude Agent AI + Github API
 
-Este é um repositório de teste criado com a ajuda do assistente Claude.
+Este é um repositório criado pelo assistente Claude.
 
 ## Sobre
 
@@ -12,21 +12,6 @@ Este repositório foi criado para demonstrar a integração entre o Claude e o G
 - Gerenciamento de arquivos
 - Atualização de conteúdo
 
-## Como usar
-
-1. Clone este repositório:
-```
-git clone https://github.com/BabiDoo/teste-claude.git
-```
-
-2. Faça suas alterações
-
-3. Envie suas alterações:
-```
-git add .
-git commit -m "Sua mensagem de commit"
-git push origin main
-```
 
 ## Contribuição
 
