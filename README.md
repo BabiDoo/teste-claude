@@ -6,9 +6,6 @@ This is a repository created by the Claude assistant.
 
 This repository was created to demonstrate the integration between Claude and GitHub, showing how it is possible to use AI assistants to manage repositories and files on GitHub.
 
-![Adding the index.html file](image.png)
-
-
 Image Translation:
 
 "B: create a file called index.html in the repository teste-claude under my user BabiDoo
@@ -33,6 +30,8 @@ You can access the file through this link:
 https://github.com/BabiDoo/teste-claude/blob/main/index.html
 
 If you’d like to make further changes or create more files in the repository, just let me know!"
+
+![Adding the index.html file](image.png)
 
 ## Features
 
